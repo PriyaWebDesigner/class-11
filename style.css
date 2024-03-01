@@ -34,7 +34,7 @@ body{
 
 .reg-form{
     display: grid;
-    grid-template-columns: 225px;
+    /* grid-template-columns: 225px; */
     row-gap: 15px;
 }
 label{
